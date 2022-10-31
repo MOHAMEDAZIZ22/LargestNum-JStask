@@ -1,1 +1,1 @@
-# LargestNum-JStask
+# Total&Average-JStask
